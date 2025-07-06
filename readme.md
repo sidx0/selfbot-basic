@@ -1,6 +1,6 @@
 
 
-# 🧠  Selfbot
+# 🧠  Discord Selfbot
 
 > ⚠️ **Disclaimer:** This selfbot is for **educational & authorized** use only. Running a selfbot **violates Discord ToS** and can result in account termination.
 
@@ -22,10 +22,10 @@
 
 1.**Get the code from github**
 
-  ```bash
-  git clone https://github.com/sidx0/selfbot-basic
-  cd selfbot-basic
-  ```
+   ```bash
+   git clone https://github.com/sidx0/selfbot-basic
+   cd selfbot-basic
+   ```
 
 2. **Install dependencies:**
 
